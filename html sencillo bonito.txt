@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Seccion-4.0</title>
+</head>
+
+<body>
+      <h1> una suma sencilla: </h1> 
+      <hr>
+      <pre>Hola mundo pre </pre>
+
+      <ul>
+            <li>Christian</li>
+      </ul>
+      <ul>
+            <li>Jeronimo</li>
+      </ul>
+
+      <script  src = "app.js"></script>
+</body>
+
+</html>
+
+----------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+      <title>Playground</title>
+</head>
+
+<body>
+      <h1> Agregar animales al arreglo granja usando push y forEach </h1> 
+      <hr>
+      <pre>Hola mundo pre </pre>
+
+      <ul>
+            <li>Christian</li>
+      </ul>
+      <ul>
+            <li>Jeronimo</li>
+      </ul>
+
+      <script  src = "app.js"></script>
+</body>
+
+</html>
